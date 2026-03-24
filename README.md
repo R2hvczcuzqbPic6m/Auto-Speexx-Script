@@ -28,3 +28,7 @@
 
 虽然我大概率懒得修（笑），但是如发现 Bug 建议通过以下方式反馈：
 - [GitHub Issues](https://github.com/R2hvczcuzqbPic6m/Auto-Speexx-Script/issues)
+
+## 致谢与声明
+
+- initExerciseComponent() 函数内核心逻辑引用了 [speexx-auto](https://github.com/NAOSI-DLUT/speexx-auto) 的代码，感谢原作者 [BeautyyuYanli](https://yanli.one) 的贡献。根据 GPL 3.0 协议要求，本脚本同样以 GPL 3.0 协议开源。
